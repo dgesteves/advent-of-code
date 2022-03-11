@@ -9,7 +9,7 @@ describe('part1 function', () => {
 
   const draws = [7, 4, 9, 5, 11, 17, 23, 2, 0, 14, 21, 24, 10, 16, 13, 6, 15, 25, 12, 22, 18, 20, 8, 19, 3, 26, 1];
 
-  test('part1 function should return the correct amount of points is it has a wining card', () => {
+  test('part1 function should return the correct amount of points if it has a wining card', () => {
     const points = part1(cards, draws);
 
     expect(points).toBe(4512);

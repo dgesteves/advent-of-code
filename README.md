@@ -1,5 +1,3 @@
-# Task for kryha-task
-
 * Task Started at Thu 10 Mar 2022
 * Author: Diogo Esteves
 
